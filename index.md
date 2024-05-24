@@ -13,3 +13,7 @@ Untracked files:
   (use "git add <file>..." to include in what will be committed)
         palindrames.js
 ```
+### My task list:
+- [x] Submit this current assignment
+- [ ] Be active on All-In-Africa Slack
+- [ ] Find projects to contribute to 
