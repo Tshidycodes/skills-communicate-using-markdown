@@ -6,3 +6,10 @@
 ###### And this is the smallest you can get!
 
 ![Image of a cat](https://www.pexels.com/photo/sneaking-cat-on-the-meadow-15578747/)
+
+```
+On branch main
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        palindrames.js
+```
